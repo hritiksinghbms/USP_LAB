@@ -15,6 +15,3 @@ read ta
 ta=$((pb * ta * 1/100))
 gs=`expr $pb + $da + $hra + $ta - $pf`
 echo "Gross salary of employee is $gs"
-© 2022 GitHub, Inc.
-Terms
-Priva
